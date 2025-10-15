@@ -1,4 +1,4 @@
-let studentName = "Result";
+let studentName = "Rahul";
 let correctAnswers = 4;
 let wrongAnswers = 1;
 
