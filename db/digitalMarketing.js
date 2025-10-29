@@ -28,7 +28,7 @@ MongoClient.connect(url)
     console.error(err);
   });
 
-// Step 2: Find the first lead from Kochi (only name and place)
+// Step 2: Find the first lead from Calicut (only name )
 MongoClient.connect(url)
   .then(client => {
     const db = client.db("mashupdb");
